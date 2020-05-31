@@ -9,5 +9,5 @@ Hazırlayanlar
 Berke Öncül 172803011  
 Uğur Çiftçi 172803053  
 Beyza Onar 162805012  
-Bünyamin Küçük 172803004  
+Bünyamin Küçük 172803016  
 Emre Şimşek   
